@@ -28,9 +28,9 @@ import gitLogo from './assets/git.png';
 import githubLogo from './assets/github.png';
 import vscodeLogo from './assets/vscode.png';
 import postmanLogo from './assets/postman.png';
-import socketio from './assets/socketio.png';
+import socketio from './assets/socketio.webp';
 
-import netlifyLogo from './assets/netlify.png';
+
 import vercelLogo from './assets/vercel.png';
 
 import expressKartImg from './assets/expresskart.jpeg';
@@ -95,9 +95,9 @@ export const SkillsInfo = [
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Postman', logo: postmanLogo },
+        { name: 'vercel', logo: vercelLogo },
      
-      { name: 'Vercel', logo: vercelLogo },
-      { name: 'Netlify', logo: netlifyLogo },
+     
     ],
   },
 ];
