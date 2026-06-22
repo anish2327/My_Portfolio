@@ -28,6 +28,7 @@ import gitLogo from './assets/git.png';
 import githubLogo from './assets/github.png';
 import vscodeLogo from './assets/vscode.png';
 import postmanLogo from './assets/postman.png';
+import socketio from './assets/socketio.png';
 
 import netlifyLogo from './assets/netlify.png';
 import vercelLogo from './assets/vercel.png';
@@ -62,7 +63,7 @@ export const SkillsInfo = [
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
-      { name: 'Socket.IO', logo: mongodbLogo },
+      { name: 'Socket.IO', logo: socketio },
       
     ],
   },
